@@ -24,7 +24,7 @@ function gotResult(error,results) {
 }
 
 function preload() {
-    img = loadImage("tv.jpg");
+    img = loadImage("tv.png");
 }
 
 function draw() {

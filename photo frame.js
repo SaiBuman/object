@@ -24,7 +24,7 @@ function gotResult(error,results) {
 }
 
 function preload() {
-    img = loadImage("photo frame.jpg");
+    img = loadImage("photo frame.png");
 }
 
 function draw() {
